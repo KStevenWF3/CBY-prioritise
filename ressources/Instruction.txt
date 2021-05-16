@@ -1,0 +1,19 @@
+Objectif :
+
+Manipuler le DOM pour gérer la couleur des tâches
+
+1 -  Mise en place de l’environnement :
+
+👉 Récupérez les ressources fournies.
+
+👉 Créez un répertoire js et initialisez un fichier script.js.
+
+2 - Couleurs des tâches :
+
+
+👉 Via le DOM, en Javascript,  vous allez devoir modifier la couleur des tâches en respectant la maquette
+
+
+3 -  Urgence
+
+👉 Mettre en place une mécanique permettant, au chargement, d’afficher uniquement les tâches de priorité 3 & 4.
